@@ -1,0 +1,18 @@
+<items gfxroot="gfx/items/" version="1">
+    <passive name="Darkness" description="Buried in the past." 
+	gfx="collectibles_Darkness.png" blackhearts="2" quality = "3" cache="damage tearflag tearcolor" tags="devil" devilprice="2"
+	/>
+	<passive name="Touchstone" description="Stab,Stab,Stab and Stab!!" 
+	gfx="collectibles_Touchstone.png" quality = "3"
+	/>
+	<passive name="My Hat" description="It’s too big!" 
+	gfx="collectibles_My_Hat.png" quality = "1"
+	/>
+	<passive name="Tech 9" description="Skipped...But why?" 
+	gfx="collectibles_Tech_9.png" quality = "1"
+	/>
+	<passive name="Assassin's Eye" description="Savour the Dark." 
+	gfx="collectibles_Assassin_s_Eye.png" quality = "3"
+	/>
+	
+</items>

@@ -1,0 +1,26 @@
+<players bigportraitroot="gfx/ui/stage/" 
+	nameimageroot="gfx/ui/boss/" 
+	portraitroot="gfx/ui/boss/" 
+	root="gfx/characters/costumes/">
+	<player 
+	name="W.Qing" pocketActive="" black="0" armor="4" hp="0" bombs="0" items="" trinket="" 
+          nameimage="playername_WQing.png" 
+          portrait="WQingPortrait.png" 
+		  bigportrait="BigWQingPortrait.png"
+		  skin="character_WQing.png" 
+          skinColor="0"
+          canShoot="false" 
+		  birthright="Pain Has to Pay" 
+		  />
+	<player 
+	name="SP.W.Qing" pocketActive="" black="4" armor="0" hp="2" bombs="2" items="" trinket="" 
+          nameimage="playername_WQing.png" 
+          portrait="SPWQingPortrait.png" 
+		  bigportrait="BigSPWQingPortrait.png"
+		  skin="character_SPWQing.png"
+          skinColor="0" 
+          canShoot="false" 
+		  bSkinParent="W.Qing" 
+		  birthright="Memories..." 
+		  />  
+</players>

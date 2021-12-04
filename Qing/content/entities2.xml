@@ -1,0 +1,46 @@
+<entities anm2root="gfx/" version="5">
+	<entity anm2path="003.2335_AirFlig.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="15" friction="1" id="3" name="QingsAir" numGridCollisionPoints="12" shadowSize="15" stageHP="0" variant="2335">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+	<entity anm2path="1000.2335_QingMarks.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="0" collisionRadius="1" friction="0.95" id="1000" name="QingsMark" numGridCollisionPoints="0" shadowSize="0" stageHP="0" variant="2335">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+	<entity anm2path="1000.031_Dr. Fetus Rocket.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="0" collisionRadius="1" friction="0" id="1000" name="MeusRocket" numGridCollisionPoints="0" shadowSize="22" stageHP="0" variant="2336">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+	<entity anm2path="1000.030_Dr. Fetus Target.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="0" collisionRadius="1" friction="0.95" id="1000" name="MeusFetus" numGridCollisionPoints="0" shadowSize="0" stageHP="0" variant="2337">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+	<entity anm2path="1000.2338_NILL.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="0" collisionRadius="10" friction="1" id="1000" name="MeusNil" numGridCollisionPoints="0" shadowSize="0" stageHP="0" variant="2338">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+	<entity anm2path="008.2335_stabberknife.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="0" collisionRadius="5" friction="1" id="8" name="StabberKnife" numGridCollisionPoints="0" shadowSize="0" stageHP="0" variant="2339">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+	<entity anm2path="1000.2340_Link.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="0" collisionRadius="1" friction="0" id="1000" name="MeusLink" numGridCollisionPoints="0" shadowSize="0" stageHP="0" variant="2342">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+	<entity anm2path="008.010_spirit sword.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="0" collisionRadius="80" friction="1" id="8" name="MeusSword" numGridCollisionPoints="0" shadowSize="0" stageHP="0" variant="2340">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+	
+	<entity anm2path="chargebar_Qing.anm2" variant="2341" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="0" collisionRadius="0" friction="1" id="1000" name="Qing Bar" numGridCollisionPoints="1" shadowSize="0" stageHP="0">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+	
+	<entity anm2path="glazed_heart.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="5" name="Glaze_heart" 
+    numGridCollisionPoints="24" shadowSize="17" variant="2350" stageHP="0" subtype="0">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+        <preload-snd id="54" />
+    </entity>
+	<entity anm2path="glazed_heart_half.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="5" name="Glaze_heart_half" 
+    numGridCollisionPoints="24" shadowSize="17" variant="2350" stageHP="0" subtype="1">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+        <preload-snd id="54" />
+    </entity>
+	<entity anm2path="glaze_key.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="5" name="Glaze_key" numGridCollisionPoints="24" shadowSize="13" stageHP="0" variant="2351" subtype="0">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+	    <preload-snd id="58" /> 
+    </entity>
+	
+</entities>
