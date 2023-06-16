@@ -1,4 +1,3 @@
-# My_Playable_Character_Qing
-【以撒的结合】可以玩的新角色！高强度制作中！！
-想玩的话自便下载！！
-顺便一提：我的lua写法很烂，请勿模仿！！
+# Glazed_Celemory
+New characters in TBOI! High intensity production in progress!!
+Just a backup position for my mod and will be updated from time to time
